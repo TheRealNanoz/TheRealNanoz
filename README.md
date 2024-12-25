@@ -8,5 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 - Currently using Arch Linux as my main Distro... alongside VSC for coding
 ## What programs to I make
-- right now, nothing as I am still progressing through A-levels and using GitHub to assist me.
-- However, in future I plan to use github to make many side projects when they come up
+- My focus is towards automation of tasks. This is reflected in the programs I make such as the Commodity Calculator for Star Citizen Players
