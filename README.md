@@ -1,4 +1,4 @@
-- 👋 こにちわ! わたち は @TheRealNanoz です
+- 👋 Hello! I am @TheRealNanoz
 - 👀 My interests are around Cyber-Security and the Japanese language
 - 🌱 I’m currently learning python, HTML and some Rust
 - 🌱 Currently Progressing through my A-level Maths, Further Maths, Physics and Computer Science
