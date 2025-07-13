@@ -1,5 +1,5 @@
 <h1> 😃 &nbsp;Who am I </h1>
-- 👋 Hello! I am @TheRealNanoz
+- 👋 Hello! I am @TheRealNanoz</br>
 - 👀 My interests are around Cyber-Security and the Japanese language
 <h2> 🧑‍💻 &nbsp;What programs do I make</h2>
 - My focus is towards automation of tasks. This is reflected in the programs I make such as the Commodity Calculator and Ship Rental Bot for Star Citizen Players
