@@ -1,6 +1,6 @@
 - 👋 Hello! I am @TheRealNanoz
 - 👀 My interests are around Cyber-Security and the Japanese language
-<h2> 🧑‍💻 &nbsp;What programs to I make</h2>
+<h2> 🧑‍💻 &nbsp;What programs do I make</h2>
 - My focus is towards automation of tasks. This is reflected in the programs I make such as the Commodity Calculator and Ship Rental Bot for Star Citizen Players
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
