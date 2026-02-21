@@ -1,9 +1,9 @@
 <h1> 😃 &nbsp;Who am I </h1>
-- 👋 Hello! I am @TheRealNanoz</br>
+- 👋 Hello! I am @TheRealNanoz</br></br>
 - 👀 My interests are around Cyber-Security and the Japanese language
 <h2> 🧑‍💻 &nbsp;What Programs Do I Make</h2>
-- I mainly focus on automation and simulation programs.
-- I am currently working on a simulator for objects orbiting each other using Newton's laws.
+- I mainly focus on automation and simulation programs.</br></br>
+- I am currently working on a simulator for objects orbiting each other using Newton's laws.</br></br>
 - I have previously worked on a discord bot capable of retrieving and displaying commodity and ship data for star citizen.
 <h2> 🚀 &nbsp;What Tools Do I Use </h2>
 <p align="left">
